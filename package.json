@@ -1,0 +1,20 @@
+{
+  "name": "nmrrito-do-list",
+  "version": "1.0.4",
+  "description": "To do list",
+  "main": "index.js",
+  "type": "module",
+  "bin":"main.js",
+  "script": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
